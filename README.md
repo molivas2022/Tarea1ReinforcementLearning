@@ -10,8 +10,8 @@
 1. Clonar el repositorio
 
    ```bash
-   git clone <URL_DEL_REPO>
-   cd <NOMBRE_DEL_REPO>
+   git clone https://github.com/molivas2022/Tarea1ReinforcementLearning
+   cd Tarea1ReinforcementLearning
    ```
 2. Instalar el paquete
 
